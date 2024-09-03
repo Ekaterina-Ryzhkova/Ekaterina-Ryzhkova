@@ -13,7 +13,13 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
-# 📊 GitHub Stats:
+
+</td></tr></table>  
+
+<br/>  
+
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ekaterina-Ryzhkova&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ekaterina-Ryzhkova&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Ryzhkova&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
