@@ -1,7 +1,7 @@
-### <div align="center">Привет, меня зовут Екатерина!
+## <div align="center">Привет, меня зовут Екатерина!
 
-# ☀️ Обо мне:
-🌸 Я начинающий аналитик данных. <br>🍎 Закончила курсы на платформе Нетология.
+## ☀️ Обо мне:
+📈 Я начинающий аналитик данных. <br>💻 Закончила курсы на платформе Нетология.
 
 
 ## 💻 Технологический стек:
@@ -21,12 +21,20 @@
 <br/>  
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ekaterina-Ryzhkova&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ekaterina-Ryzhkova&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Ryzhkova&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 Статистика GitHub:
+
+![](https://github-readme-stats.vercel.app/api?username=Ekaterina-Ryzhkova&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ekaterina-Ryzhkova&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekaterina-Ryzhkova&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</td></tr></table>  
+<br/>  
+
+### 🔝 Top Contributed Repo:
+
+![](https://github-contributor-stats.vercel.app/api?username=Ekaterina-Ryzhkova&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ekaterina-Ryzhkova&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ekaterina-Ryzhkova&icon=0&color=11)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
